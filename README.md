@@ -1,13 +1,13 @@
 # Mathematics for Data Science
 
-Course homepage (M1 - Université Paris-Saclay)
+Course homepage (M1 - Université Paris-Saclay - 2025/2026)
 
 __Course content__
 
 A refresher course to review the main concepts useful in data science.
 Lectures about linear algebra (x5) and multivariable calculus (x1).
 
-* (Lecture 1) Vector spaces and manipulation of vectors [[exercises]](./exercises/exercice_sheet.pdf)
+* (Lecture 1) Vector spaces and manipulation of vectors [[exercises]](./exercise/exercice_1.pdf)
 * (Lecture 2) Matrices and linear systems
 * (Lecture 3) Determinant, diagonalization
 * (Lecture 4) Eigenvalues and eigenvectors, singular value decomposition
