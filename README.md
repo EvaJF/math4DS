@@ -7,7 +7,7 @@ __Course content__
 A refresher course to review the main concepts useful in data science.
 Lectures about linear algebra (x5) and multivariable calculus (x1).
 
-* (Lecture 1) Vector spaces and manipulation of vectors [[slides]](./slides/course1.pdf) [[exo]](./exercises/exercice_sheet.pdf)
+* (Lecture 1) Vector spaces and manipulation of vectors [[exercises]](./exercises/exercice_sheet.pdf)
 * (Lecture 2) Matrices and linear systems
 * (Lecture 3) Determinant, diagonalization
 * (Lecture 4) Eigenvalues and eigenvectors, singular value decomposition
@@ -20,7 +20,7 @@ __Course organization__
 
 Every FRIDAY / 1.30pm to 5pm from 12.th of Sept to 24th of Oct.
 
-Written exam (1h30min, to confirm)
+Written exam (2h)
 
 __Useful links and resources to complement the lectures__
 - Lectures "Introduction to Probability, Statistics, and Machine Learning" by Samuel S. Watson from Brown University (lectures 2, 3, 4), https://data1010.github.io/class/ 
