@@ -8,7 +8,7 @@ A refresher course to review the main concepts useful in data science.
 Lectures about linear algebra (x5) and multivariable calculus (x1).
 
 * (Lecture 1) Vector spaces [[updated exercise sheet]](./exercise/exercise_1.pdf) 
-* (Lecture 2) Matrices and linear systems
+* (Lecture 2) Matrices and linear systems [[exercise sheet v2]](./exercise/exercise_2.pdf) 
 * (Lecture 3) Determinant, diagonalization
 * (Lecture 4) Eigenvalues and eigenvectors, singular value decomposition
 * (Lecture 5) Norms, scalar product, orthogonality
@@ -17,6 +17,8 @@ Lectures about linear algebra (x5) and multivariable calculus (x1).
 [Slides](./slides/course1.pdf) (only lecture 1)
 
 __Course organization__
+
+Self-enrollment on e-campus : https://ecampus.paris-saclay.fr/enrol/index.php?id=196845 
 
 6 x (1h30 of lecture + 1h30 of practical session)
 
@@ -28,6 +30,8 @@ _!!! Bring student card + paper for writing !!!_
 
 (25%) Quiz (30min) on the 26th of September + 
 (75%) Written exam (2h) on the 24th of October
+
+Evaluation language = English (no French)
 
 __Useful links and resources to complement the lectures__
 - Book "Mathematics for Machine Learning" by M. P. Deisenroth, A. A. Faisal, C. S. Ong,  published by Cambridge University Press, https://mml-book.github.io/book/mml-book.pdf
