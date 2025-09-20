@@ -16,7 +16,6 @@ Lectures about linear algebra (x5) and multivariable calculus (x1).
 * (Lecture 5) Norms, scalar product, orthogonality
 * (Lecture 6) Taylor formula, partial derivatives, differentiability
 
- (only lecture 1)
 
 __Course organization__
 
