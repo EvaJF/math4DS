@@ -2,19 +2,21 @@
 
 Course homepage (M1 - Université Paris-Saclay - 2025/2026)
 
+## Please complete self-enrollment on e-campus : https://ecampus.paris-saclay.fr/enrol/index.php?id=196845 
+
 __Course content__
 
 A refresher course to review the main concepts useful in data science.
 Lectures about linear algebra (x5) and multivariable calculus (x1).
 
-* (Lecture 1) Vector spaces [[updated exercise sheet]](./exercise/exercise_1.pdf) 
-* (Lecture 2) Matrices and linear systems [[exercise sheet v2]](./exercise/exercise_2.pdf) 
+* (Lecture 1) Vector spaces [[Slides]](./slides/course1.pdf) [[exercises]](./exercise/exercise_1.pdf) 
+* (Lecture 2) Matrices and linear systems [[Slides]](./slides/course2.pdf) [[exercises]](./exercise/exercise_2.pdf) 
 * (Lecture 3) Determinant, diagonalization
 * (Lecture 4) Eigenvalues and eigenvectors, singular value decomposition
 * (Lecture 5) Norms, scalar product, orthogonality
 * (Lecture 6) Taylor formula, partial derivatives, differentiability
 
-[Slides](./slides/course1.pdf) (only lecture 1)
+ (only lecture 1)
 
 __Course organization__
 
@@ -33,6 +35,17 @@ _!!! Bring student card OR identity card OR passport + paper and draft for writi
 * (25%) Written test (30min) on the 26th of September (Test on lectures 1 and 2)
 * (75%) Written exam (2h) on the 24th of October (Exam on lectures 1 to 6)
 
+Reminders about the exam: 
+
+- about what we have seen in class, proofs included, in exercise sheets, new exercises and possibly new short proofs, 
+- answers need to be justified in detail,  
+- English only
+- books, notes, etc are not allowed,  
+- *simple* calculators are allowed, 
+- any other electronic devices (mobile phones, etc) are not allowed
+- bring student card or ID
+
+*An absence at the exam needs to be justified with an official document.* 
 
 __Getting prepared__
 
@@ -44,6 +57,9 @@ Please read Chapters 2 to 5 of the [MML book](https://mml-book.github.io/book/mm
 - Chapter 3 : Lecture 5
 - Chapter 5 : Lecture 6
 
+* Example exam
+[[exam]](https://mbonazzo.gitlabpages.inria.fr/documents/exam_example.pdf)
+[[answers]](https://mbonazzo.gitlabpages.inria.fr/documents/results_of_exam_example.pdf)
 
 __Useful links and resources to complement the lectures__
 
