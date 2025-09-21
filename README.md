@@ -4,6 +4,11 @@ Course homepage (M1 - Université Paris-Saclay - 2025/2026)
 
 ## Please complete self-enrollment on e-campus : https://ecampus.paris-saclay.fr/enrol/index.php?id=196845 
 
+## Practice for the test 
+* Practice with [[course questions]](./test/quiz00.pdf)
+* Practice with [[exercises]](./test/quiz0.pdf)
+* Review chapter 2 of the [MML book](https://mml-book.github.io/book/mml-book.pdf)
+
 __Course content__
 
 A refresher course to review the main concepts useful in data science.
