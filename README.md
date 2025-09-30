@@ -16,9 +16,9 @@ Lectures about linear algebra (x5) and multivariable calculus (x1).
 
 * (Lecture 1) Vector spaces [[Slides]](./slides/course1.pdf) [[exercises]](./exercise/exercise_1.pdf) 
 * (Lecture 2) Matrices and linear systems [[Slides]](./slides/course2.pdf) [[exercises]](./exercise/exercise_2.pdf) 
-* (Lecture 3) Determinant, diagonalization [[Slides]](./slides/course3.pdf) [[exercises]](./exercise/exercise_3.pdf) [[some notes]](./exercise/exercise_3_solutions.pdf) 
-* (Lecture 4) Eigenvalues and eigenvectors, singular value decomposition
-* (Lecture 5) Norms, scalar product, orthogonality
+* (Lecture 3) Determinant, Eigendecomposition (part 1) [[Slides]](./slides/course3.pdf) [[exercises]](./exercise/exercise_3.pdf) [[some notes]](./exercise/exercise_3_solutions.pdf) 
+* (Lecture 4) Eigendecomposition (part 2), Scalar product, norm, orthogonality. 
+* (Lecture 5) Eigendecomposition (part 3), Spectral theorem. 
 * (Lecture 6) Taylor formula, partial derivatives, differentiability
 
 
