@@ -4,10 +4,6 @@ Course homepage (M1 - Université Paris-Saclay - 2025/2026)
 
 ## Please complete self-enrollment on e-campus : https://ecampus.paris-saclay.fr/enrol/index.php?id=196845 
 
-## Practice for the test 
-* Practice with [[course questions]](./test/quiz00.pdf)
-* Practice with [[exercises]](./test/quiz0.pdf)
-* Review chapter 2 of the [MML book](https://mml-book.github.io/book/mml-book.pdf)
 
 __Course content__
 
@@ -38,6 +34,10 @@ _!!! Bring student card OR identity card OR passport + paper and draft for writi
 
 * (25%) Written test (30min) on the 26th of September (Test on lectures 1 and 2)
 * (75%) Written exam (2h) on the 24th of October (Exam on lectures 1 to 6)
+
+Practice for the test 
+* Practice with [[course questions]](./test/quiz00.pdf)
+* Practice with [[exercises]](./test/quiz0.pdf)
 
 Reminders about the exam: 
 
