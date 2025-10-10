@@ -14,7 +14,7 @@ Lectures about linear algebra (x5) and multivariable calculus (x1).
 * (Lecture 2) Matrices and linear systems [[Slides]](./slides/course2.pdf) [[exercises]](./exercise/exercise_2.pdf) 
 * (Lecture 3) Determinant, Eigendecomposition (part 1) [[Slides]](./slides/course3.pdf) [[exercises]](./exercise/exercise_3.pdf) [[solutions]](./exercise/exercise_3_solutions.pdf) + [[additional notes]](./exercise/exercise_3_detailed.pdf) for bloc matrix and Vandermonde exercises  
 * (Lecture 4) Eigendecomposition (part 2), Diagonalization, Trigonalizability. [[Slides]](./slides/course4.pdf)  [[recap]](./exercise/exercise_4_method.pdf) [[exercises]](./exercise/exercise_4.pdf) [[solutions]](./exercise/exercise_4_solutions.pdf)
-* (Lecture 5) Scalar product, norm, orthogonality. Spectral theorem. [[Slides]](./slides/course5.pdf) [[exercises]](./exercise/exercise_5_sujet.pdf)
+* (Lecture 5) Scalar product, norm, orthogonality. Spectral theorem. [[Slides]](./slides/course5.pdf) [[exercises]](./exercise/exercise_5.pdf)
 * (Lecture 6) Taylor formula, partial derivatives, differentiability
 
 
