@@ -2,8 +2,21 @@
 
 Course homepage (M1 - Université Paris-Saclay - 2025/2026)
 
-## Please complete self-enrollment on e-campus : https://ecampus.paris-saclay.fr/enrol/index.php?id=196845 
+_Please complete self-enrollment on e-campus_ https://ecampus.paris-saclay.fr/enrol/index.php?id=196845 
 
+_________
+__News__
+
+Lecture 6 will be taught by Stéphane Rivaud
+
+---
+
+Past year exam 
+[[exam]](https://mbonazzo.gitlabpages.inria.fr/documents/exam_example.pdf)
+[[answers]](https://mbonazzo.gitlabpages.inria.fr/documents/results_of_exam_example.pdf)
+
+__!!! this example exam is shorter than this year's exam !!! expect more exercises and more proofs, in the same style as the examples and short profs from the course, and the exercises done in the exercise sessions__ This year the exam is 2-hour long. The exam is about lectures 1 to 5 (linear algebra). 
+__________
 
 __Course content__
 
@@ -62,9 +75,6 @@ Please read Chapters 2 to 5 of the [MML book](https://mml-book.github.io/book/mm
 - Chapter 3 : Lecture 5
 - Chapter 5 : Lecture 6
 
-* Example exam
-[[exam]](https://mbonazzo.gitlabpages.inria.fr/documents/exam_example.pdf)
-[[answers]](https://mbonazzo.gitlabpages.inria.fr/documents/results_of_exam_example.pdf)
 
 __Useful links and resources to complement the lectures__
 
