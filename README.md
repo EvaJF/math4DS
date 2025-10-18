@@ -2,21 +2,30 @@
 
 Course homepage (M1 - Université Paris-Saclay - 2025/2026)
 
-_Please complete self-enrollment on e-campus_ https://ecampus.paris-saclay.fr/enrol/index.php?id=196845 
 
-_________
-__News__
+-------
+EXAM 
 
-Lecture 6 will be taught by Stéphane Rivaud
+- Date: Friday, the 24th of October. 
 
----
+- Time: 1.30 pm - 5 pm. Note that in practice, it should be a 2-hour exam starting at 2 pm.
 
-Past year exam 
-[[exam]](https://mbonazzo.gitlabpages.inria.fr/documents/exam_example.pdf)
-[[answers]](https://mbonazzo.gitlabpages.inria.fr/documents/results_of_exam_example.pdf)
+- Room: !! not the usual one !! D101 / see updates at https://sites.google.com/view/mastersagenda/ai 
 
-__!!! this example exam is shorter than this year's exam !!! expect more exercises and more proofs, in the same style as the examples and short profs from the course, and the exercises done in the exercise sessions__ This year the exam is 2-hour long. The exam is about lectures 1 to 5 (linear algebra). 
-__________
+- Bring a student card or ID 
+
+- Content: The first 5 courses (linear algebra). All the definitions and properties from the course (except the "bonus" slides). All the exercises and proofs we have done in class. 
+
+Exercises will be about what we have seen in class (short proofs included), and in the exercise sessions. There will be new exercises and possibly new short proofs, in the same style as what we have done in class. 
+
+*    There will be no True or False question. 
+*    Answers need to be justified in detail, with sentences.
+*    English only.
+*    Books, notes, etc, are not allowed.
+*    Simple calculators are allowed (but unnecessary).
+*    Any other electronic device (mobile phones, etc) is not allowed.
+
+-------
 
 __Course content__
 
@@ -28,7 +37,7 @@ Lectures about linear algebra (x5) and multivariable calculus (x1).
 * (Lecture 3) Determinant, Eigendecomposition (part 1) [[Slides]](./slides/course3.pdf) [[exercises]](./exercise/exercise_3.pdf) [[solutions]](./exercise/exercise_3_solutions.pdf) + [[additional notes]](./exercise/exercise_3_detailed.pdf) for bloc matrix and Vandermonde exercises  
 * (Lecture 4) Eigendecomposition (part 2), Diagonalization, Trigonalizability. [[Slides]](./slides/course4.pdf)  [[recap]](./exercise/exercise_4_method.pdf) [[exercises]](./exercise/exercise_4.pdf) [[solutions]](./exercise/exercise_4_solutions.pdf)
 * (Lecture 5) Scalar product, norm, orthogonality. Spectral theorem. [[Slides]](./slides/course5.pdf) [[exercises]](./exercise/exercise_5.pdf) [[solutions]](./exercise/exercise_5_solutions.pdf)
-* (Lecture 6) Taylor formula, partial derivatives, differentiability [[exercises]](./exercise/exercise_6.pdf)
+* (Lecture 6) Taylor formula, partial derivatives, differentiability [[Slides]](./slides/course6.pdf) [[exercises]](./exercise/exercise_6.pdf) [[solutions]](./exercise/exercise_6_solutions.pdf)
 
 
 __Course organization__
@@ -52,6 +61,14 @@ Practice for the test
 * Practice with [[course questions]](./test/quiz00.pdf)
 * Practice with [[example test]](./test/quiz0.pdf)
 * [[Review this year's test]](./test/quiz_2025.pdf)
+
+Past year exam 
+[[exam]](https://mbonazzo.gitlabpages.inria.fr/documents/exam_example.pdf)
+[[answers]](https://mbonazzo.gitlabpages.inria.fr/documents/results_of_exam_example.pdf)
+
+__NB: this example exam is shorter than this year's exam. Expect more exercises and more proofs, in the same style as the examples and short profs from the course, and the exercises done in the exercise sessions__ 
+
+This year the exam is 2-hour long. The exam is about lectures 1 to 5 (linear algebra). 
 
 Reminders about the exam: 
 
