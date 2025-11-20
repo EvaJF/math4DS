@@ -104,6 +104,8 @@ Videos :
 
 Try it [the humorous side](https://amosunov.wordpress.com/2021/06/22/linear-algebra-memes/) :-) 
 
+--------
+
 __Contact__
 
 Email subject should begin with \[math4DS\]
