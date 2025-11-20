@@ -17,11 +17,9 @@ Lectures about linear algebra (x5) and multivariable calculus (x1).
 
 __Course organization__
 
-*Please complete self-enrollment on e-campus* : https://ecampus.paris-saclay.fr/enrol/index.php?id=196845 
-
 6 x (1h30 of lecture + 1h30 of practical session)
 
-Every FRIDAY / 1.30pm to 5pm from 12.th of Sept to 24th of Oct.
+Every Friday / 1.30pm to 5pm from 12.th of Sept to 24th of Oct.
 
 __Evaluation__
 
@@ -36,11 +34,10 @@ Practice for the test
 * [[Review this year's test]](./test/quiz_2025.pdf)
 
 Past exams 
-[[short exam]](https://mbonazzo.gitlabpages.inria.fr/documents/exam_example.pdf)
-[[short answers]](https://mbonazzo.gitlabpages.inria.fr/documents/results_of_exam_example.pdf)
-[[exam 2025]](./test/exam_2025_questions.pdf)
-[[answers 2025]](./test/exam_2025_detailed.pdf)
-
+* [[exam 2025]](./test/exam_2025_questions.pdf)
+* [[answers 2025]](./test/exam_2025_detailed.pdf)
+* [[short exam]](https://mbonazzo.gitlabpages.inria.fr/documents/exam_example.pdf)
+* [[short answers]](https://mbonazzo.gitlabpages.inria.fr/documents/results_of_exam_example.pdf)
 
 Reminders about the exam: 
 - 2-hour long. 
@@ -79,10 +76,7 @@ Exercises will be about what we have seen in class (short proofs included), and 
 
 -------
 
-
-__Getting prepared__
-
-Recap and practice : https://prismia.chat/shared/linear-algebra 
+__Useful links and resources to complement the lectures__
 
 Refer to Chapters 2 to 5 of the [MML book](https://mml-book.github.io/book/mml-book.pdf) for an introduction to the concepts reviewed in the course.
 - Chapter 2 : Lecture 1 and 2 (in particular, read the section on linear systems if you need to practice)
@@ -90,13 +84,11 @@ Refer to Chapters 2 to 5 of the [MML book](https://mml-book.github.io/book/mml-b
 - Chapter 3 : Lecture 5
 - Chapter 5 : Lecture 6
 
-
-__Useful links and resources to complement the lectures__
-
-To practice : https://data1010.github.io/class/ 
+Online recap and practice:
+- https://data1010.github.io/class/ 
+- https://prismia.chat/shared/linear-algebra 
 
 Books :
-
 - To begin : "Mathematics for Machine Learning" by M. P. Deisenroth, A. A. Faisal, C. S. Ong,  published by Cambridge University Press, https://mml-book.github.io/book/mml-book.pdf
 - Reference :  "Introduction to Probability, Statistics, and Machine Learning" by Samuel S. Watson from Brown University (lectures 2, 3, 4) 
 
