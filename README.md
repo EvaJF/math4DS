@@ -2,31 +2,6 @@
 
 Course homepage (M1 - Université Paris-Saclay - 2025/2026)
 
-
--------
-EXAM 
-
-- Date: Friday, the 24th of October. 
-
-- Time: 1.30 pm - 5 pm. Note that in practice, it should be a 2-hour exam starting at 2 pm.
-
-- Room: !! not the usual one !! D101 / see updates at https://sites.google.com/view/mastersagenda/ai 
-
-- Bring a student card or ID 
-
-- Content: The first 5 courses (linear algebra). All the definitions and properties from the course (except the "bonus" slides). All the exercises and proofs we have done in class. 
-
-Exercises will be about what we have seen in class (short proofs included), and in the exercise sessions. There will be new exercises and possibly new short proofs, in the same style as what we have done in class. 
-
-*    There will be no True or False question. 
-*    Answers need to be justified in detail, with sentences.
-*    English only.
-*    Books, notes, etc, are not allowed.
-*    Simple calculators are allowed (but unnecessary).
-*    Any other electronic device (mobile phones, etc) is not allowed.
-
--------
-
 __Course content__
 
 A refresher course to review the main concepts useful in data science.
@@ -52,8 +27,6 @@ __Evaluation__
 
 Evaluation language = English (no French)
 
-_!!! Bring student card OR identity card OR passport + paper and draft for writing !!!_
-
 * (25%) Written test (30min) on the 26th of September (Test on lectures 1 and 2)
 * (75%) Written exam (2h) on the 24th of October (Exam on lectures 1 to 6)
 
@@ -62,16 +35,16 @@ Practice for the test
 * Practice with [[example test]](./test/quiz0.pdf)
 * [[Review this year's test]](./test/quiz_2025.pdf)
 
-Past year exam 
-[[exam]](https://mbonazzo.gitlabpages.inria.fr/documents/exam_example.pdf)
-[[answers]](https://mbonazzo.gitlabpages.inria.fr/documents/results_of_exam_example.pdf)
+Past exams 
+[[short exam]](https://mbonazzo.gitlabpages.inria.fr/documents/exam_example.pdf)
+[[short answers]](https://mbonazzo.gitlabpages.inria.fr/documents/results_of_exam_example.pdf)
+[[exam 2025]](./test/exam_2025_questions.pdf)
+[[answers 2025]](./test/exam_2025_detailed.pdf)
 
-__NB: this example exam is shorter than this year's exam. Expect more exercises and more proofs, in the same style as the examples and short profs from the course, and the exercises done in the exercise sessions__ 
-
-This year the exam is 2-hour long. The exam is about lectures 1 to 5 (linear algebra). 
 
 Reminders about the exam: 
-
+- 2-hour long. 
+- about lectures 1 to 5 (linear algebra). 
 - about what we have seen in class, proofs included, in exercise sheets, new exercises and possibly new short proofs, 
 - answers need to be justified in detail,  
 - English only
@@ -82,11 +55,36 @@ Reminders about the exam:
 
 *An absence at the exam needs to be justified with an official document.* 
 
+-------
+EXAM - Logistics
+
+- Date: Friday, the 24th of October. 
+
+- Time: 1.30 pm - 5 pm. Note that in practice, it should be a 2-hour exam starting at 2 pm.
+
+- Room: !! not the usual one !! D101 / see updates at https://sites.google.com/view/mastersagenda/ai 
+
+- Bring a student card or ID 
+
+- Content: The first 5 courses (linear algebra). All the definitions and properties from the course (except the "bonus" slides). All the exercises and proofs we have done in class. 
+
+Exercises will be about what we have seen in class (short proofs included), and in the exercise sessions. There will be new exercises and possibly new short proofs, in the same style as what we have done in class. 
+
+*    There will be no True or False question. 
+*    Answers need to be justified in detail, with sentences.
+*    English only.
+*    Books, notes, etc, are not allowed.
+*    Simple calculators are allowed (but unnecessary).
+*    Any other electronic device (mobile phones, etc) is not allowed.
+
+-------
+
+
 __Getting prepared__
 
 Recap and practice : https://prismia.chat/shared/linear-algebra 
 
-Please read Chapters 2 to 5 of the [MML book](https://mml-book.github.io/book/mml-book.pdf) for an introduction to the concepts reviewed in the course.
+Refer to Chapters 2 to 5 of the [MML book](https://mml-book.github.io/book/mml-book.pdf) for an introduction to the concepts reviewed in the course.
 - Chapter 2 : Lecture 1 and 2 (in particular, read the section on linear systems if you need to practice)
 - Chapter 4 : Lecture 3 and 4
 - Chapter 3 : Lecture 5
