@@ -6,7 +6,7 @@ __Course content__
 
 A refresher course to review the main concepts useful in data science.
 
-* (Lecture 1) Vector spaces [[Slides]](./slides/course1.pdf) [[exercises]](./exercise/exercise_1.pdf) 
+* (Lecture 1) Vector spaces [[Slides]](./slides/course1.pdf) [[exercises]](./exercise/ex1_ML_vector_spaces.pdf) 
 * (Lecture 2) Matrices and linear systems [[Slides]](./slides/course2.pdf) [[exercises]](./exercise/exercise_2.pdf) 
 * (Lecture 3) Determinant, Eigendecomposition (part 1) [[Slides]](./slides/course3.pdf) [[exercises]](./exercise/exercise_3.pdf) + [[additional notes]](./exercise/exercise_3_detailed.pdf) for bloc matrix and Vandermonde exercises  
 * (Lecture 4) Eigendecomposition (part 2), Diagonalization, Trigonalizability. [[Slides]](./slides/course4.pdf)  [[recap]](./exercise/exercise_4_method.pdf) [[exercises]](./exercise/exercise_4.pdf)
