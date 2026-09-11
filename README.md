@@ -5,7 +5,6 @@ Course homepage (M1 - Université Paris-Saclay - 2026/2027)
 __Course content__
 
 A refresher course to review the main concepts useful in data science.
-Lectures about linear algebra (x5) and calculus (x1).
 
 * (Lecture 1) Vector spaces [[Slides]](./slides/course1.pdf) [[exercises]](./exercise/exercise_1.pdf) 
 * (Lecture 2) Matrices and linear systems [[Slides]](./slides/course2.pdf) [[exercises]](./exercise/exercise_2.pdf) 
@@ -19,7 +18,9 @@ __Course organization__
 
 6 x (1h30 of lecture + 2h of practical session)
 
-Every Friday / 1.30pm to 5pm from the 11th of September to the 23th of Oct. + Written Exam on the 30th of October. 
+Every Friday / 1.30pm to 5pm from the 11th of September to the 23rd of Oct. 
+
+Written Exam on the 23rd of October (2h). 
 
 -------
 
@@ -51,13 +52,13 @@ Videos :
 
 __Evaluation__
 
-(100%) Written exam (2h) on the 24th of October (Exam on lectures 1 to 6)
+(100%) Written exam (2h) on the 23rd of October (Exam on lectures 1 to 5)
 
 Practice for the exam 
 * Practice with [[course questions]](./test/quiz00.pdf)
-* Practice with [[example test #1]](./test/quiz0.pdf) and [[example test #2]](./test/quiz_2025.pdf) 
+* Practice with [[example test]](./test/quiz0.pdf)
 * Practice with [[short exam]](https://mbonazzo.gitlabpages.inria.fr/documents/exam_example.pdf)/[[short answers]](https://mbonazzo.gitlabpages.inria.fr/documents/results_of_exam_example.pdf)
-* Practice with [[exam 2025]](./test/exam_2025_questions.pdf)
+* Practice with [[past exam]](./test/exam_2025_questions.pdf)
 
 Reminders about the exam: 
 - 2-hour long. 
@@ -76,14 +77,17 @@ Reminders about the exam:
 
 Exam logistics
 
-- Date: **Friday, the 30th of October**. 
+- **Closed book exam** (no notes allowed).
 
-- Time: **1.45 pm - 4 pm**. We start at 2 pm.
+- Date: **Friday, the 23rd of October**. 
+
+- Time: Be there at **1.45 pm**. 
 
 - Room: !! not the usual one !! see updates at https://sites.google.com/view/mastersagenda/ai 
 
-- Logistics: Bring a student card or ID. When entering the room : leave your bag under the black board and take only what you 
-need for the exam (pencils, student card). *All electronic devices must be switched off and left in your bag.*  
+- Logistics: Bring a student card or ID. 
+*When entering the room : leave your bag under the black board and take only what you need for the exam (pencils, student card).* 
+*All electronic devices must be switched off and left in your bag.*  
 
 - Content: Mostly about the first 5 courses (linear algebra). All the definitions and properties from the course (except the "bonus" slides). 
 Exercises will be about what we have seen in class (short proofs included), and in the exercise sessions. There will be new exercises and possibly new short proofs, in the same style as what we have done in class. 
@@ -98,4 +102,4 @@ Exercises will be about what we have seen in class (short proofs included), and 
 
 __Contact__
 
-Email subject should begin with \[math4DS\].
+Email subject should begin with the flag \[math4DS\].
