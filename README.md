@@ -2,15 +2,20 @@
 
 Course homepage (M1 AI/DKAI/DiPaQ - Université Paris-Saclay - 2026/2027)
 
+*If you have questions about the exam, just read the corresponding section of this page :)*
 
-__Agenda__
+
+## Agenda
 
 
 Course 2 --> Course 3
 
 * review the course slides
+* if you need more background about solving linear systems: see Chapter 2.1 of the MML book
 * review the exercices (Part 1 and Part 2)
-* practice with the test [[here]](./test/quiz0.pdf)
+* practice with extra exercises [[here]](./test/quiz0.pdf)
+* check that you are familiar with classic proof methods (Existence and Unicity, Proof by induction, Double-implication) illustrated in [Lecture1 recap](./recaps/recap_1.pdf)
+
 
 Course 1 --> Course 2
 
@@ -18,32 +23,29 @@ Course 1 --> Course 2
 
 * review the course slides (definitions and properties)
 * try to prove the properties (in particular: properties on the product of vector spaces, properties of subspaces, the kernel of a linear map is a subspace, etc.). 
-
 * review the exercices at home (Part 1 and Part 2)
 * [Bonus] additional practice: Part 3 of the exercise sheet.
 
+-----
+## Syllabus
 
+Goal of the course = a refresher course to review the main concepts of linear algebra useful in ML/ deep learning/ data science.
 
-__Course content__
+Format = 5 x (1h30 of lecture + 2h of practical session) + 1 written exam
 
-A refresher course to review the main concepts useful in data science.
+Date = Every Friday / 1.30pm to 5pm from the 11th of September to the 23rd of Oct. 
 
 * (Lecture 1) Vector spaces [[Slides]](./slides/course1.pdf) [[exercises]](./exercise/ex1_ML_vector_spaces.pdf) [[solution]](./exercise/sol1_ML_vector_spaces.pdf) [[recap with proofs as exercise]](./recaps/recap_1.pdf)
-* (Lecture 2) Matrices and linear systems [[Slides]](./slides/course2.pdf) [[exercises]](./exercise/ex2_matrices.pdf) 
-* (Lecture 3) Determinant, Eigendecomposition (part 1) [[Slides]](./slides/course3.pdf) [[exercises]](./exercise/exercise_3.pdf) + [[additional notes]](./exercise/exercise_3_detailed.pdf) for bloc matrix and Vandermonde exercises  
+* (Lecture 2) Matrices and linear systems [[Slides]](./slides/course2.pdf) [[exercises]](./exercise/ex2_matrices.pdf) [[solution]](./exercise/sol2_matrices.pdf)
+* (Lecture 3) Determinant, Eigendecomposition (part 1) [[Slides]](./slides/course3.pdf) [[exercises]](./exercise/exercise_3.pdf) + [[more exercises]](./exercise/exercise_3_detailed.pdf)
 * (Lecture 4) Eigendecomposition (part 2), Diagonalization, Trigonalizability. [[Slides]](./slides/course4.pdf)  [[recap]](./exercise/exercise_4_method.pdf) [[exercises]](./exercise/exercise_4.pdf)
-* (Lecture 5) Scalar product, norm, orthogonality. Spectral theorem. [[Slides]](./slides/course5.pdf) [[exercises]](./exercise/exercise_5.pdf)
-* (Lecture 6) Taylor formula, partial derivatives, differentiability [[Slides]](./slides/course6.pdf) [[exercises]](./exercise/exercise_6.pdf)
+* (Lecture 5) Scalar product, norm, orthogonality. Spectral theorem. [[Slides]](./slides/course5.pdf) [[exercises]](./exercise/exercise_5.pdf) 
 
-__Course organization__
+* (Bonus / Lecture 6 / not for the exam) Taylor formula, partial derivatives, differentiability [[Slides]](./slides/course6.pdf) [[exercises]](./exercise/exercise_6.pdf)
 
-6 x (1h30 of lecture + 2h of practical session)
+**Written Exam on the 23rd of October.** (2h, maybe 3h). (see details at the bottom of the page)
 
-Every Friday / 1.30pm to 5pm from the 11th of September to the 23rd of Oct. 
 
-Written Exam on the 23rd of October (2h). 
-
--------
 
 __Useful links and resources to complement the lectures__
 
@@ -71,9 +73,12 @@ Videos :
 - Mathematics for Machine Learning: Linear Algebra, David Dye, Coursera (19 hours)
 - Mathematics for Machine Learning: Multivariate Calculus, by on Samuel J. Cooper, Coursera (19 hours)
 
-__Evaluation__
 
-(100%) Written exam (2h) on the 23rd of October (Exam on lectures 1 to 5)
+------
+## About the exam
+
+
+(100%) Written exam (2h) on **FRIDAY the 23rd of October 2027** (Exam on lectures 1 to 5)
 
 Resources: *Additional practice for the exam* 
 * Practice with [[course questions]](./test/quiz00.pdf)
@@ -96,11 +101,11 @@ Reminders about the exam:
 
 -------
 
-Exam logistics
+Further details: Exam logistics
 
 - **Closed book exam** (no notes allowed).
 
-- Date: **Friday, the 23rd of October**. 
+- Date: **Friday, the 23rd of October 2027**. 
 
 - Time: Be there at **1.45 pm**. 
 
