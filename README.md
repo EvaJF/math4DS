@@ -5,6 +5,13 @@ Course homepage (M1 AI/DKAI/DiPaQ - Université Paris-Saclay - 2026/2027)
 
 __Agenda__
 
+
+Course 2 --> Course 3
+
+* review the course slides
+* review the exercices (Part 1 and Part 2)
+* practice with the test [[here]](./test/quiz0.pdf)
+
 Course 1 --> Course 2
 
 **[UPDATE]** additional practice: see [Lecture1 recap](./recaps/recap_1.pdf) with proofs as exercise. 
@@ -22,7 +29,7 @@ __Course content__
 A refresher course to review the main concepts useful in data science.
 
 * (Lecture 1) Vector spaces [[Slides]](./slides/course1.pdf) [[exercises]](./exercise/ex1_ML_vector_spaces.pdf) [[solution]](./exercise/sol1_ML_vector_spaces.pdf) [[recap with proofs as exercise]](./recaps/recap_1.pdf)
-* (Lecture 2) Matrices and linear systems [[Slides]](./slides/course2.pdf) [[exercises]](./exercise/exercise_2.pdf) 
+* (Lecture 2) Matrices and linear systems [[Slides]](./slides/course2.pdf) [[exercises]](./exercise/ex2_matrices.pdf) 
 * (Lecture 3) Determinant, Eigendecomposition (part 1) [[Slides]](./slides/course3.pdf) [[exercises]](./exercise/exercise_3.pdf) + [[additional notes]](./exercise/exercise_3_detailed.pdf) for bloc matrix and Vandermonde exercises  
 * (Lecture 4) Eigendecomposition (part 2), Diagonalization, Trigonalizability. [[Slides]](./slides/course4.pdf)  [[recap]](./exercise/exercise_4_method.pdf) [[exercises]](./exercise/exercise_4.pdf)
 * (Lecture 5) Scalar product, norm, orthogonality. Spectral theorem. [[Slides]](./slides/course5.pdf) [[exercises]](./exercise/exercise_5.pdf)
