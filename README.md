@@ -37,7 +37,7 @@ Date = Every Friday / 1.30pm to 5pm from the 11th of September to the 23rd of Oc
 
 * (Lecture 1) Vector spaces [[Slides]](./slides/course1.pdf) [[exercises]](./exercise/ex1_ML_vector_spaces.pdf) [[solution]](./exercise/sol1_ML_vector_spaces.pdf) [[recap with proofs as exercise]](./recaps/recap_1.pdf)
 * (Lecture 2) Matrices and linear systems [[Slides]](./slides/course2.pdf) [[exercises]](./exercise/ex2_matrices.pdf) [[solution]](./exercise/sol2_matrices.pdf)
-* (Lecture 3) Determinant, Eigendecomposition (part 1) [[Slides]](./slides/course3.pdf) [[exercises]](./exercise/exercise_3.pdf) + [[more exercises]](./exercise/exercise_3_detailed.pdf)
+* (Lecture 3) Determinant, Eigendecomposition (part 1) [[Slides]](./slides/course3.pdf) [[exercises]](./exercise/exercise_3.pdf)
 * (Lecture 4) Eigendecomposition (part 2), Diagonalization, Trigonalizability. [[Slides]](./slides/course4.pdf)  [[recap]](./exercise/exercise_4_method.pdf) [[exercises]](./exercise/exercise_4.pdf)
 * (Lecture 5) Scalar product, norm, orthogonality. Spectral theorem. [[Slides]](./slides/course5.pdf) [[exercises]](./exercise/exercise_5.pdf) 
 
