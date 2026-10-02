@@ -2,9 +2,9 @@
 
 Course homepage (M1 AI/DKAI/DiPaQ - Université Paris-Saclay - 2026/2027)
 
-*If you have questions about the exam, just read the corresponding section of this page :)*
+### If you have questions about the exam, read the corresponding section of this page :)
 
-
+-----
 ## Agenda
 
 Course 3 --> Course 4
@@ -27,7 +27,6 @@ Course 2 --> Course 3
 
 Course 1 --> Course 2
 
-**[UPDATE]** 
 * review the course slides (definitions and properties)
 * try to prove the properties (in particular: properties on the product of vector spaces, properties of subspaces, the kernel of a linear map is a subspace, etc.). 
 * review the exercices at home (Part 1 and Part 2)
@@ -55,7 +54,7 @@ Date = Every Friday / 1.30pm to 5pm from the 11th of September to the 23rd of Oc
 
 
 
-__Useful links and resources to complement the lectures__
+## Useful links and resources to complement the lectures
 
 Refer to Chapters 2 to 5 of the [MML book](https://mml-book.github.io/book/mml-book.pdf) for an introduction to the concepts reviewed in the course.
 - Chapter 2 : Lecture 1 and 2 (in particular, read the section on linear systems if you need to practice)
@@ -85,6 +84,7 @@ Videos :
 ------
 ## About the exam
 
+*An absence at the exam needs to be justified with an official document.* 
 
 (100%) Written exam (2h) on **FRIDAY the 23rd of October 2027** (Exam on lectures 1 to 5)
 
@@ -94,22 +94,25 @@ Resources: *Additional practice for the exam*
 * Practice with [[short exam]](https://mbonazzo.gitlabpages.inria.fr/documents/exam_example.pdf)/[[short answers]](https://mbonazzo.gitlabpages.inria.fr/documents/results_of_exam_example.pdf)
 * Practice with [[past exam]](./test/exam_2025_questions.pdf)
 
-Reminders about the exam: 
+Exam logistics
+
 - 2-hour long. 
-- mostly about lectures 1 to 5 (linear algebra). 
+- About lectures 1 to 5 (linear algebra). 
 - about what we have seen in class, proofs included, in exercise sheets, new exercises and possibly new short proofs, 
 - answers need to be justified in detail,  
 - Evaluation language = English (*no French*)
-- books, notes, etc are not allowed,  
-- *simple* calculators are allowed, 
-- any other electronic devices (mobile phones, etc) are not allowed
+- **Closed book exam** (no notes allowed). Books, notes, etc are not allowed,  
+- No calculators are allowed, 
+- No electronic device (mobile phones, etc) is allowed
 - bring student card or ID
 
-*An absence at the exam needs to be justified with an official document.* 
+*When entering the exam room: leave all your stuff next to the board (bag, any electronic device, etc.). ALL ELECTRONIC DEVICES MUST BE SWITCHED OFF. 
+No phone in your pocket. No electronic watch, smartwatch etc.*
+Failure to comply with these guidelines = exam not validated. 
 
 -------
 
-Further details: Exam logistics
+Important details (again): 
 
 - **Closed book exam** (no notes allowed).
 
