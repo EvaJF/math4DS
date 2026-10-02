@@ -7,6 +7,14 @@ Course homepage (M1 AI/DKAI/DiPaQ - Université Paris-Saclay - 2026/2027)
 
 ## Agenda
 
+Course 3 --> Course 4
+
+* review course slides
+* review Practical session = Ex1; Ex2.a; Ex3.a; Ex4.
+* if you want extra practice: Ex2b; Ex3b, Ex5; Ex6. 
+* Practice / prepare for next course: read Chapter 4.1 to 4.4 of MML book. 
+* Practice: see [Lecture2 recap](./recaps/recap_2.pdf) with proofs as exercise. 
+* Bonus: see [Lecture3 recap](./recaps/recap_3.pdf) for deepening the course on determinant.  
 
 Course 2 --> Course 3
 
@@ -19,12 +27,12 @@ Course 2 --> Course 3
 
 Course 1 --> Course 2
 
-**[UPDATE]** additional practice: see [Lecture1 recap](./recaps/recap_1.pdf) with proofs as exercise. 
-
+**[UPDATE]** 
 * review the course slides (definitions and properties)
 * try to prove the properties (in particular: properties on the product of vector spaces, properties of subspaces, the kernel of a linear map is a subspace, etc.). 
 * review the exercices at home (Part 1 and Part 2)
 * [Bonus] additional practice: Part 3 of the exercise sheet.
+* additional practice: see [Lecture1 recap](./recaps/recap_1.pdf) with proofs as exercise. 
 
 -----
 ## Syllabus
@@ -37,8 +45,8 @@ Date = Every Friday / 1.30pm to 5pm from the 11th of September to the 23rd of Oc
 
 * (Lecture 1) Vector spaces [[Slides]](./slides/course1.pdf) [[exercises]](./exercise/ex1_ML_vector_spaces.pdf) [[solution]](./exercise/sol1_ML_vector_spaces.pdf) [[recap with proofs as exercise]](./recaps/recap_1.pdf)
 * (Lecture 2) Matrices and linear systems [[Slides]](./slides/course2.pdf) [[exercises]](./exercise/ex2_matrices.pdf) [[solution]](./exercise/sol2_matrices.pdf)
-* (Lecture 3) Determinant, Eigendecomposition (part 1) [[Slides]](./slides/course3.pdf) [[exercises]](./exercise/ex3_determinant.pdf)
-* (Lecture 4) Eigendecomposition (part 2), Diagonalization, Trigonalizability. [[Slides]](./slides/course4.pdf)  [[recap]](./exercise/exercise_4_method.pdf) [[exercises]](./exercise/exercise_4.pdf)
+* (Lecture 3) Determinant [[Slides]](./slides/course3.pdf) [[exercises]](./exercise/ex3_determinant.pdf)
+* (Lecture 4) Eigendecomposition, Diagonalization, Trigonalizability. [[Slides]](./slides/course4.pdf)  [[recap]](./exercise/exercise_4_method.pdf) [[exercises]](./exercise/exercise_4.pdf)
 * (Lecture 5) Scalar product, norm, orthogonality. Spectral theorem. [[Slides]](./slides/course5.pdf) [[exercises]](./exercise/exercise_5.pdf) 
 
 * (Bonus / Lecture 6 / not for the exam) Taylor formula, partial derivatives, differentiability [[Slides]](./slides/course6.pdf) [[exercises]](./exercise/exercise_6.pdf)
