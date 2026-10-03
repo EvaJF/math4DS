@@ -55,7 +55,7 @@ Date = Every Friday / 1.30pm to 5pm from the 11th of September to the 23rd of Oc
 * (Lecture 4) Eigendecomposition, Diagonalization, Trigonalizability. [[Slides]](./slides/course4.pdf)  [[method recap]](./recaps/recap_4.pdf) [[exercises]](./exercise/exercise_4.pdf)
 * (Lecture 5) Scalar product, norm, orthogonality. Spectral theorem. [[Slides]](./slides/course5.pdf) [[exercises]](./exercise/exercise_5.pdf) 
 
-* (Bonus / Lecture 6 / not for the exam) Taylor formula, partial derivatives, differentiability [[Slides]](./slides/course6.pdf) and [[exercises]](./exercise/exercise_6.pdf) by Stéphane Rivaud. 
+* (Bonus / Lecture 6 / not for the exam) Taylor formula, partial derivatives, differentiability [[Slides]](./slides/course6.pdf) and [[exercises]](./exercise/exercise_6.pdf) with [[solutions]](./exercise/exercise_6_solutions.pdf) by Stéphane Rivaud. 
 
 **Written Exam on the 23rd of October.** (2h, maybe 3h). (see details at the bottom of the page)
 
