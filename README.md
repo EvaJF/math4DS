@@ -5,9 +5,9 @@ Course homepage (M1 AI/DKAI/DiPaQ - Université Paris-Saclay - 2026/2027)
 ### If you have questions about the exam, read the corresponding section of this page :)
 
 *Additional practice for the exam* 
-* Practice with [[course questions]](./test/quiz00.pdf)
-* Practice with [[example test (1)]](./test/quiz0.pdf)
-* Practice with [[example test (2)]](https://mbonazzo.gitlabpages.inria.fr/documents/exam_example.pdf)/[[short answers]](https://mbonazzo.gitlabpages.inria.fr/documents/results_of_exam_example.pdf)
+* Practice with course questions about [[vector spaces]](./quiz/quiz00.pdf) and general [[recap]](./quiz/quiz0_questions.pdf)
+* Practice with [[example test (1)]](./test/quiz0.pdf) about lecture 1 and 2
+* Practice with [[example test (2)]](https://mbonazzo.gitlabpages.inria.fr/documents/exam_example.pdf)/ see [[short answers]](https://mbonazzo.gitlabpages.inria.fr/documents/results_of_exam_example.pdf)
 * Practice with [[example of past exam]](./test/exam_2025_questions.pdf)
 
 -----
