@@ -4,6 +4,12 @@ Course homepage (M1 AI/DKAI/DiPaQ - Université Paris-Saclay - 2026/2027)
 
 ### If you have questions about the exam, read the corresponding section of this page :)
 
+*Additional practice for the exam* 
+* Practice with [[course questions]](./test/quiz00.pdf)
+* Practice with [[example test (1)]](./test/quiz0.pdf)
+* Practice with [[example test (2)]](https://mbonazzo.gitlabpages.inria.fr/documents/exam_example.pdf)/[[short answers]](https://mbonazzo.gitlabpages.inria.fr/documents/results_of_exam_example.pdf)
+* Practice with [[example of past exam]](./test/exam_2025_questions.pdf)
+
 -----
 ## Agenda
 
@@ -15,6 +21,7 @@ Course 3 --> Course 4
 * Practice / prepare for next course: read Chapter 4.1 to 4.4 of MML book. 
 * Practice: see [Lecture2 recap](./recaps/recap_2.pdf) with proofs as exercise. 
 * Bonus: see [Lecture3 recap](./recaps/recap_3.pdf) for deepening the course on determinant.  
+* If you want to review eigendecomposition in advance: see method recap [[here]](./recaps/recap_4.pdf)
 
 Course 2 --> Course 3
 
@@ -45,10 +52,10 @@ Date = Every Friday / 1.30pm to 5pm from the 11th of September to the 23rd of Oc
 * (Lecture 1) Vector spaces [[Slides]](./slides/course1.pdf) [[exercises]](./exercise/ex1_ML_vector_spaces.pdf) [[solution]](./exercise/sol1_ML_vector_spaces.pdf) [[recap with proofs as exercise]](./recaps/recap_1.pdf)
 * (Lecture 2) Matrices and linear systems [[Slides]](./slides/course2.pdf) [[exercises]](./exercise/ex2_matrices.pdf) [[solution]](./exercise/sol2_matrices.pdf)
 * (Lecture 3) Determinant [[Slides]](./slides/course3.pdf) [[exercises]](./exercise/ex3_determinant.pdf)
-* (Lecture 4) Eigendecomposition, Diagonalization, Trigonalizability. [[Slides]](./slides/course4.pdf)  [[recap]](./exercise/exercise_4_method.pdf) [[exercises]](./exercise/exercise_4.pdf)
+* (Lecture 4) Eigendecomposition, Diagonalization, Trigonalizability. [[Slides]](./slides/course4.pdf)  [[method recap]](./recaps/recap_4.pdf) [[exercises]](./exercise/exercise_4.pdf)
 * (Lecture 5) Scalar product, norm, orthogonality. Spectral theorem. [[Slides]](./slides/course5.pdf) [[exercises]](./exercise/exercise_5.pdf) 
 
-* (Bonus / Lecture 6 / not for the exam) Taylor formula, partial derivatives, differentiability [[Slides]](./slides/course6.pdf) [[exercises]](./exercise/exercise_6.pdf)
+* (Bonus / Lecture 6 / not for the exam) Taylor formula, partial derivatives, differentiability [[Slides]](./slides/course6.pdf) and [[exercises]](./exercise/exercise_6.pdf) by Stéphane Rivaud. 
 
 **Written Exam on the 23rd of October.** (2h, maybe 3h). (see details at the bottom of the page)
 
@@ -88,14 +95,7 @@ Videos :
 
 (100%) Written exam (2h) on **FRIDAY the 23rd of October 2027** (Exam on lectures 1 to 5)
 
-Resources: *Additional practice for the exam* 
-* Practice with [[course questions]](./test/quiz00.pdf)
-* Practice with [[example test]](./test/quiz0.pdf)
-* Practice with [[short exam]](https://mbonazzo.gitlabpages.inria.fr/documents/exam_example.pdf)/[[short answers]](https://mbonazzo.gitlabpages.inria.fr/documents/results_of_exam_example.pdf)
-* Practice with [[past exam]](./test/exam_2025_questions.pdf)
-
-Exam logistics
-
+**Exam logistics**
 - 2-hour long. 
 - About lectures 1 to 5 (linear algebra). 
 - about what we have seen in class, proofs included, in exercise sheets, new exercises and possibly new short proofs, 
@@ -112,7 +112,7 @@ Failure to comply with these guidelines = exam not validated.
 
 -------
 
-Important details (again): 
+**Important details** (again): 
 
 - **Closed book exam** (no notes allowed).
 
