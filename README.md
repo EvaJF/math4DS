@@ -13,6 +13,16 @@ Course homepage (M1 AI/DKAI/DiPaQ - Université Paris-Saclay - 2026/2027)
 -----
 ## Agenda
 
+# Course 4 : WILL BE ONLINE (cf email with Teams link)
+
+Exercise session = method recap + at least Exercises 2, 3, 4, 7
+
+Course 4
+
+Review eigendecomposition: see method recap [[here]](./recaps/recap_4.pdf)
+
+NB: [generalized binomial fomula](https://math.libretexts.org/Bookshelves/Combinatorics_and_Discrete_Mathematics/Combinatorics_(Morris)/02%3A_Enumeration/07%3A_Generating_Functions/7.02%3A_The_Generalized_Binomial_Theorem) (out of scope; Q(5) of trigonalization exercise is a Bonus / would be more guided in the exam)
+
 Course 3 --> Course 4
 
 * review course slides
@@ -21,7 +31,7 @@ Course 3 --> Course 4
 * Practice / prepare for next course: read Chapter 4.1 to 4.4 of MML book. 
 * Practice: see [Lecture2 recap](./recaps/recap_2.pdf) with proofs as exercise. 
 * Bonus: see [Lecture3 recap](./recaps/recap_3.pdf) for deepening the course on determinant.  
-* If you want to review eigendecomposition in advance: see method recap [[here]](./recaps/recap_4.pdf)
+
 
 Course 2 --> Course 3
 
