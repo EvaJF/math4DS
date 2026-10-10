@@ -13,15 +13,15 @@ Course homepage (M1 AI/DKAI/DiPaQ - Université Paris-Saclay - 2026/2027)
 -----
 ## Agenda
 
-# Course 4 : WILL BE ONLINE (cf email with Teams link)
+Course 4 --> Course 5
 
-Exercise session = method recap + at least Exercises 2, 3, 4, 7
+* review method recap [[here]](./recaps/recap_4.pdf) 
+* review course slides 
+* review ex 2, 3, 4 from the exercise sheet
+* extra training with eigendecomp exercises from the exercise sheet
+* optional: review Chapter 4.1 to 4.4 of MML book. 
 
-Course 4
-
-Review eigendecomposition: see method recap [[here]](./recaps/recap_4.pdf)
-
-NB: [generalized binomial fomula](https://math.libretexts.org/Bookshelves/Combinatorics_and_Discrete_Mathematics/Combinatorics_(Morris)/02%3A_Enumeration/07%3A_Generating_Functions/7.02%3A_The_Generalized_Binomial_Theorem) (out of scope; Q(5) of trigonalization exercise is a Bonus / would be more guided in the exam)
+NB: [generalized binomial fomula](https://math.libretexts.org/Bookshelves/Combinatorics_and_Discrete_Mathematics/Combinatorics_(Morris)/02%3A_Enumeration/07%3A_Generating_Functions/7.02%3A_The_Generalized_Binomial_Theorem) (out of current scope; Q(5) of trigonalization exercise in Method recap is a Bonus / would be more guided in the exam)
 
 Course 3 --> Course 4
 
@@ -61,11 +61,10 @@ Date = Every Friday / 1.30pm to 5pm from the 11th of September to the 23rd of Oc
 
 * (Lecture 1) Vector spaces [[Slides]](./slides/course1.pdf) [[exercises]](./exercise/ex1_ML_vector_spaces.pdf) [[solution]](./exercise/sol1_ML_vector_spaces.pdf) [[recap with proofs as exercise]](./recaps/recap_1.pdf)
 * (Lecture 2) Matrices and linear systems [[Slides]](./slides/course2.pdf) [[exercises]](./exercise/ex2_matrices.pdf) [[solution]](./exercise/sol2_matrices.pdf)
-* (Lecture 3) Determinant [[Slides]](./slides/course3.pdf) [[exercises]](./exercise/ex3_determinant.pdf)
-* (Lecture 4) Eigendecomposition, Diagonalization, Trigonalizability. [[Slides]](./slides/course4.pdf)  [[method recap]](./recaps/recap_4.pdf) [[exercises]](./exercise/exercise_4.pdf)
+* (Lecture 3) Determinant [[Slides]](./slides/course3.pdf) [[exercises]](./exercise/ex3_determinant.pdf) [[solutions]](./exercise/sol3_determinant.pdf)
+* (Lecture 4) Eigendecomposition, Diagonalization, Trigonalizability. [[Slides]](./slides/course4.pdf)  [[method recap]](./recaps/recap_4.pdf) [[exercises]](./exercise/exercise_4.pdf) [[solutions]](./exercise/sol4_eigendecomp.pdf)
 * (Lecture 5) Scalar product, norm, orthogonality. Spectral theorem. [[Slides]](./slides/course5.pdf) [[exercises]](./exercise/exercise_5.pdf) 
-
-* (Bonus / Lecture 6 / not for the exam) Taylor formula, partial derivatives, differentiability [[Slides]](./slides/course6.pdf) and [[exercises]](./exercise/exercise_6.pdf) with [[solutions]](./exercise/exercise_6_solutions.pdf) by Stéphane Rivaud. 
+* (Lecture 6/ Not for the exam) Taylor formula, partial derivatives, differentiability [[Slides]](./slides/course6.pdf) and [[exercises]](./exercise/exercise_6.pdf) with [[solutions]](./exercise/exercise_6_solutions.pdf) by Stéphane Rivaud. 
 
 **Written Exam on the 23rd of October.** (2h, maybe 3h). (see details at the bottom of the page)
 
