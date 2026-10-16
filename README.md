@@ -13,6 +13,8 @@ Course homepage (M1 AI/DKAI/DiPaQ - Université Paris-Saclay - 2026/2027)
 -----
 ## Agenda
 
+# Course 5 : online in the Teams Classroom
+
 Course 4 --> Course 5
 
 * review method recap [[here]](./recaps/recap_4.pdf) 
@@ -127,9 +129,9 @@ Failure to comply with these guidelines = exam not validated.
 
 - Date: **Friday, the 23rd of October 2027**. 
 
-- Time: Be there at **1.45 pm**. 
+- Time: Be there at **1.30 pm**. Exam starts at 1.45pm.  
 
-- Room: !! not the usual one !! see updates at https://sites.google.com/view/mastersagenda/ai 
+- Room: D101 as usual. See updates at https://sites.google.com/view/mastersagenda/master-dkai 
 
 - Logistics: Bring a student card or ID. 
 *When entering the room : leave your bag under the black board and take only what you need for the exam (pencils, student card).* 
