@@ -2,9 +2,62 @@
 
 Course homepage (M1 AI/DKAI/DiPaQ - Université Paris-Saclay - 2026/2027)
 
-### If you have questions about the exam, read the corresponding section of this page :)
 
-*Additional practice for the exam* 
+------
+## About the exam - be there at 1.30pm
+
+### you can bring 1 page of handwritten notes (recto-verso)
+
+(100%) Written exam (2h) on **FRIDAY the 23rd of October 2027** (Exam on lectures 1 to 5)
+
+**Exam logistics**:
+
+- **Closed book exam** (no notes allowed) EXCEPT 1 PAGE of HANDWRITTEN NOTES (recto-verso)
+
+- Date: **Friday, the 23rd of October 2027**. 
+
+- Time: Be there at **1.30 pm**. Exam starts at 1.45pm.  
+
+- Room: D101 as usual. See updates at https://sites.google.com/view/mastersagenda/master-dkai 
+
+- Logistics: Bring a student card or ID. 
+*When entering the room : leave your bag under the black board and take only what you need for the exam (pencils, student card).* 
+*All electronic devices must be switched off and left in your bag.*  
+
+- Content: Mostly about the first 5 courses (linear algebra). All the definitions and properties from the course (except the "bonus" slides, and ML interpretation slides). 
+Exercises will be about what we have seen in class (short proofs included), and in the exercise sessions. There will be new exercises and possibly new short proofs, in the same style as what we have done in class. 
+- Guidelines: 
+    *    Answers need to be justified in detail, with sentences.
+    *    English only.
+    *    Books, notes, etc, are not allowed.
+    *    Simple calculators are allowed (but unnecessary).
+    *    Any other electronic device (mobile phones, etc) is not allowed.
+
+
+**In detail**
+
+- 2-hour long. 
+- About lectures 1 to 5 (linear algebra), with emphasis on lectures 1 to 4. 
+- about what we have seen in class: lectures and exercise sessions, with short proofs from the slides. New exercises and possibly new short proofs. 
+- answers need to be justified in detail,  
+- **Evaluation language = English (*no French*)**
+- **Closed book exam** (no notes allowed). Books, notes, etc are not allowed,  *EXCEPT 1 page of *handwritten* notes (recto-verso)*.
+- No calculators are allowed, 
+- No electronic device (mobile phones, etc) is allowed
+- bring student card or ID
+
+*When entering the exam room: leave all your stuff next to the board (bag, any electronic device, etc.). ALL ELECTRONIC DEVICES MUST BE SWITCHED OFF. 
+No phone in your pocket. No electronic watch, smartwatch etc.*
+Failure to comply with these guidelines = exam not validated. 
+
+*An absence at the exam needs to be justified with an official document.* 
+
+
+-------
+
+
+__Additional practice for the exam__
+
 * Practice with course questions about [[vector spaces]](./quiz/quiz00.pdf) and general [[recap]](./quiz/quiz0_questions.pdf)
 * Practice with [[example test (1)]](./test/quiz0.pdf) about lecture 1 and 2
 * Practice with [[example test (2)]](https://mbonazzo.gitlabpages.inria.fr/documents/exam_example.pdf)/ see [[short answers]](https://mbonazzo.gitlabpages.inria.fr/documents/results_of_exam_example.pdf)
@@ -13,7 +66,9 @@ Course homepage (M1 AI/DKAI/DiPaQ - Université Paris-Saclay - 2026/2027)
 -----
 ## Agenda
 
-# Course 5 : online in the Teams Classroom
+Next Friday = Exam
+
+Course 5 : online in the Teams Classroom
 
 Course 4 --> Course 5
 
@@ -65,11 +120,10 @@ Date = Every Friday / 1.30pm to 5pm from the 11th of September to the 23rd of Oc
 * (Lecture 2) Matrices and linear systems [[Slides]](./slides/course2.pdf) [[exercises]](./exercise/ex2_matrices.pdf) [[solution]](./exercise/sol2_matrices.pdf)
 * (Lecture 3) Determinant [[Slides]](./slides/course3.pdf) [[exercises]](./exercise/ex3_determinant.pdf) [[solutions]](./exercise/sol3_determinant.pdf)
 * (Lecture 4) Eigendecomposition, Diagonalization, Trigonalizability. [[Slides]](./slides/course4.pdf)  [[method recap]](./recaps/recap_4.pdf) [[exercises]](./exercise/exercise_4.pdf) [[solutions]](./exercise/sol4_eigendecomp.pdf)
-* (Lecture 5) Scalar product, norm, orthogonality. Spectral theorem. [[Slides]](./slides/course5.pdf) [[exercises]](./exercise/exercise_5.pdf) 
+* (Lecture 5) Scalar product, norm, orthogonality. Spectral theorem. [[Slides]](./slides/course5.pdf) [[exercises]](./exercise/ex5_normed.pdf) [[solutions]](./exercise/sol5_normed.pdf) 
 * (Lecture 6/ Not for the exam) Taylor formula, partial derivatives, differentiability [[Slides]](./slides/course6.pdf) and [[exercises]](./exercise/exercise_6.pdf) with [[solutions]](./exercise/exercise_6_solutions.pdf) by Stéphane Rivaud. 
 
-**Written Exam on the 23rd of October.** (2h, maybe 3h). (see details at the bottom of the page)
-
+**Written Exam on the 23rd of October.** (2h). See details at the bottom of the page.
 
 
 ## Useful links and resources to complement the lectures
@@ -99,52 +153,6 @@ Videos :
 - Mathematics for Machine Learning: Multivariate Calculus, by on Samuel J. Cooper, Coursera (19 hours)
 
 
-------
-## About the exam
-
-*An absence at the exam needs to be justified with an official document.* 
-
-(100%) Written exam (2h) on **FRIDAY the 23rd of October 2027** (Exam on lectures 1 to 5)
-
-**Exam logistics**
-- 2-hour long. 
-- About lectures 1 to 5 (linear algebra). 
-- about what we have seen in class, proofs included, in exercise sheets, new exercises and possibly new short proofs, 
-- answers need to be justified in detail,  
-- Evaluation language = English (*no French*)
-- **Closed book exam** (no notes allowed). Books, notes, etc are not allowed,  
-- No calculators are allowed, 
-- No electronic device (mobile phones, etc) is allowed
-- bring student card or ID
-
-*When entering the exam room: leave all your stuff next to the board (bag, any electronic device, etc.). ALL ELECTRONIC DEVICES MUST BE SWITCHED OFF. 
-No phone in your pocket. No electronic watch, smartwatch etc.*
-Failure to comply with these guidelines = exam not validated. 
-
--------
-
-**Important details** (again): 
-
-- **Closed book exam** (no notes allowed).
-
-- Date: **Friday, the 23rd of October 2027**. 
-
-- Time: Be there at **1.30 pm**. Exam starts at 1.45pm.  
-
-- Room: D101 as usual. See updates at https://sites.google.com/view/mastersagenda/master-dkai 
-
-- Logistics: Bring a student card or ID. 
-*When entering the room : leave your bag under the black board and take only what you need for the exam (pencils, student card).* 
-*All electronic devices must be switched off and left in your bag.*  
-
-- Content: Mostly about the first 5 courses (linear algebra). All the definitions and properties from the course (except the "bonus" slides). 
-Exercises will be about what we have seen in class (short proofs included), and in the exercise sessions. There will be new exercises and possibly new short proofs, in the same style as what we have done in class. 
-- Guidelines: 
-    *    Answers need to be justified in detail, with sentences.
-    *    English only.
-    *    Books, notes, etc, are not allowed.
-    *    Simple calculators are allowed (but unnecessary).
-    *    Any other electronic device (mobile phones, etc) is not allowed.
 
 --------
 
