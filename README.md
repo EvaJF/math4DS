@@ -30,7 +30,7 @@ Exercises will be about what we have seen in class (short proofs included), and 
     *    Answers need to be justified in detail, with sentences.
     *    English only.
     *    Books, notes, etc, are not allowed.
-    *    Simple calculators are allowed (but unnecessary).
+    *    No calculators allowed
     *    Any other electronic device (mobile phones, etc) is not allowed.
 
 
