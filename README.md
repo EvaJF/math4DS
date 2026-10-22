@@ -4,9 +4,10 @@ Course homepage (M1 AI/DKAI/DiPaQ - Université Paris-Saclay - 2026/2027)
 
 
 ------
-## About the exam - be there at 1.30pm
+## About the exam -- Cancelled for the 23rd of October -- No replacement date for now
 
-### you can bring 1 page of handwritten notes (recto-verso)
+Follow this page and the Teams Classroom for updates. 
+
 
 (100%) Written exam (2h) on **FRIDAY the 23rd of October 2027** (Exam on lectures 1 to 5)
 
@@ -32,6 +33,7 @@ Exercises will be about what we have seen in class (short proofs included), and 
     *    Books, notes, etc, are not allowed.
     *    No calculators allowed
     *    Any other electronic device (mobile phones, etc) is not allowed.
+    * you can bring 1 page of handwritten notes (recto-verso)
 
 
 **In detail**
