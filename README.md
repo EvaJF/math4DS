@@ -2,24 +2,39 @@
 
 Course homepage (M1 AI/DKAI/DiPaQ - Université Paris-Saclay - 2026/2027)
 
+*Follow this page and the Teams Classroom for updates.* 
 
 ------
-## About the exam -- Cancelled for the 23rd of October -- No replacement date for now
+## Update about the exam (posted on 01.11.2026)
 
-Follow this page and the Teams Classroom for updates. 
+Cancelled for the 23rd of October -- Replacement date : Tuesday, the 24th of November (afternoon) ?
+
+(100%) Written exam (2h) -- **Exam on lectures 1 to 3** (see explanation below)
+ 
+Message from the Dean’s Office, 
+Faculty of Science, Orsay.
+To students and staff of the Faculty of Science, Orsay (NB: message extract translated into English)
+ 
+> "Assessment of distance learning modules: Those parts of the syllabus taught via distance learning over the past few weeks will not be subject to compulsory assessment, including in any examinations held at a later date. Lecturers may set optional exercises on these parts of the syllabus. Any exercise relating, even partially, to a section taught remotely over the past few weeks must be clearly identified as optional, and the assessment schedule must be set out in detail to guide students in their revision. Lecturers are therefore asked to clearly distinguish these exercises from those relating to other parts of the syllabus."
+ 
+> "Final examinations for modules already completed: In the event that a final examination is rescheduled, in accordance with the rules set out in the paragraph above, we would remind you that students must be informed at least 15 days before the examination takes place. We ask lecturers to clearly specify the relevant syllabus at that time."
+ 
+=> **The written exam will focus on Lectures 1 to 3; exercises about lectures 4 and 5 will be optional (bonus).**
+=> **The exam will take place on a Tuesday afternoon, possibly Nov. 24th, Dec 1st, or Dec 15th. I will confirm the date shortly.** A priori, the sooner the bette: Nov. 24th.  
+ 
+*Feel free to react in the Teams chat if you have any question or remark.* 
 
 
-(100%) Written exam (2h) on **FRIDAY the 23rd of October 2027** (Exam on lectures 1 to 5)
 
 **Exam logistics**:
 
 - **Closed book exam** (no notes allowed) EXCEPT 1 PAGE of HANDWRITTEN NOTES (recto-verso)
 
-- Date: **Friday, the 23rd of October 2027**. 
+- Date: **TBC**. 
 
-- Time: Be there at **1.30 pm**. Exam starts at 1.45pm.  
+- Time: (TBC) Be there at **1.30 pm**. Exam starts at 1.45pm.  
 
-- Room: D101 as usual. See updates at https://sites.google.com/view/mastersagenda/master-dkai 
+- Room: (TBC) D101 ? See updates at https://sites.google.com/view/mastersagenda/master-dkai 
 
 - Logistics: Bring a student card or ID. 
 *When entering the room : leave your bag under the black board and take only what you need for the exam (pencils, student card).* 
