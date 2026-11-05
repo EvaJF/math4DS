@@ -5,9 +5,11 @@ Course homepage (M1 AI/DKAI/DiPaQ - Université Paris-Saclay - 2026/2027)
 *Follow this page and the Teams Classroom for updates.* 
 
 ------
-## Update about the exam (posted on 01.11.2026)
+#### Update about the exam (posted on 05.11.2026)
 
-Cancelled for the 23rd of October -- Replacement date : Tuesday, the 24th of November (afternoon) ?
+## Exam date = Wednesday, the 25th of November at 9.30am.
+## Exam place = B108 at PUIO (not the usual room!)
+
 
 (100%) Written exam (2h) -- **Exam on lectures 1 to 3** (see explanation below)
  
@@ -30,17 +32,17 @@ To students and staff of the Faculty of Science, Orsay (NB: message extract tran
 
 - **Closed book exam** (no notes allowed) EXCEPT 1 PAGE of HANDWRITTEN NOTES (recto-verso)
 
-- Date: **TBC**. 
+- Date: **Wednesday, the 25th of November 2026**. 
 
-- Time: (TBC) Be there at **1.30 pm**. Exam starts at 1.45pm.  
+- Time: Be there at **9.30 am**. Exam starts at 9.50 am.  
 
-- Room: (TBC) D101 ? See updates at https://sites.google.com/view/mastersagenda/master-dkai 
+- Room: !!! not the usual room !!! **B108**  See updates at https://sites.google.com/view/mastersagenda/master-dkai 
 
 - Logistics: Bring a student card or ID. 
 *When entering the room : leave your bag under the black board and take only what you need for the exam (pencils, student card).* 
 *All electronic devices must be switched off and left in your bag.*  
 
-- Content: Mostly about the first 5 courses (linear algebra). All the definitions and properties from the course (except the "bonus" slides, and ML interpretation slides). 
+- Content: Mostly about the first 3 courses (linear algebra). All the definitions and properties from the course (except the "bonus" slides, and ML interpretation slides). 
 Exercises will be about what we have seen in class (short proofs included), and in the exercise sessions. There will be new exercises and possibly new short proofs, in the same style as what we have done in class. 
 - Guidelines: 
     *    Answers need to be justified in detail, with sentences.
@@ -48,13 +50,13 @@ Exercises will be about what we have seen in class (short proofs included), and 
     *    Books, notes, etc, are not allowed.
     *    No calculators allowed
     *    Any other electronic device (mobile phones, etc) is not allowed.
-    * you can bring 1 page of handwritten notes (recto-verso)
+    *   you can bring 1 page of handwritten notes (recto-verso)
 
 
 **In detail**
 
 - 2-hour long. 
-- About lectures 1 to 5 (linear algebra), with emphasis on lectures 1 to 4. 
+- About lectures 1 to 3 (linear algebra), with a few bonus points on lectures 4 and 5 (online classes). 
 - about what we have seen in class: lectures and exercise sessions, with short proofs from the slides. New exercises and possibly new short proofs. 
 - answers need to be justified in detail,  
 - **Evaluation language = English (*no French*)**
@@ -83,7 +85,6 @@ __Additional practice for the exam__
 -----
 ## Agenda
 
-Next Friday = Exam
 
 Course 5 : online in the Teams Classroom
 
@@ -140,7 +141,6 @@ Date = Every Friday / 1.30pm to 5pm from the 11th of September to the 23rd of Oc
 * (Lecture 5) Scalar product, norm, orthogonality. Spectral theorem. [[Slides]](./slides/course5.pdf) [[exercises]](./exercise/ex5_normed.pdf) [[solutions]](./exercise/sol5_normed.pdf) 
 * (Lecture 6/ Not for the exam) Taylor formula, partial derivatives, differentiability [[Slides]](./slides/course6.pdf) and [[exercises]](./exercise/exercise_6.pdf) with [[solutions]](./exercise/exercise_6_solutions.pdf) by Stéphane Rivaud. 
 
-**Written Exam on the 23rd of October.** (2h). See details at the bottom of the page.
 
 
 ## Useful links and resources to complement the lectures
