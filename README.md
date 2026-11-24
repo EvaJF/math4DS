@@ -5,6 +5,11 @@ Course homepage (M1 AI/DKAI/DiPaQ - Université Paris-Saclay - 2026/2027)
 *Follow this page and the Teams Classroom for updates.* 
 
 ------
+
+#### update about the exam (posted 24/11/2026)
+# Exam of Wed. 25th of Nov is cancelled 
+On the basis of the information I currently have, it seems that the exam of Wednesday must be cancelled. I hope will update here you asap.
+
 #### Update about the exam (posted on 05.11.2026)
 
 ## Exam date = Wednesday, the 25th of November at 9.30am.
